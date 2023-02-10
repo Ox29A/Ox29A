@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corey Carney</h1>
 <h3 align="center">A passionate full-stack developer from the UK</h3>
 
-- 🌱 I’m currently learning **React and angular are my primary focus**
+- 🌱 React is my primary focus.
 
 - 💬 Ask me about **C#, react, angular, data visualisation, d3.js**
 
